@@ -1,0 +1,4 @@
+spring.application.name=14-Spring-Web-MvcWithBinding-App3-4
+spring.mvc.view.prefix=/pages/
+spring.mvc.view.suffix=.jsp
+server.tomcat.additional-tld-skip-patterns=*.jar
