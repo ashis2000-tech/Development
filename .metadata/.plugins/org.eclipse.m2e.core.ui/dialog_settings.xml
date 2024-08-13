@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\ASHIS KUMAR DASH\Documents\workspace-spring-tool-suite-4\07-Data-Jpa-App1"/>
 			<item value="C:\Users\ASHIS KUMAR DASH\Downloads\01-SpringBoot-app\01-SpringBoot-app"/>
 			<item value="C:\Users\ASHIS KUMAR DASH\Documents\workspace-spring-tool-suite-4\01-First-Spring-App"/>
 		</list>
@@ -50,6 +51,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="19-XML-JAX-B-App-1"/>
 			<item value="02-SpringBoot-App"/>
 		</list>
 		<list key="projectNameTemplate">
